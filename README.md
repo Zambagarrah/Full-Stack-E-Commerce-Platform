@@ -1,5 +1,6 @@
 # Full-Stack E-Commerce Platform 
 A robust, scalable, and modern e-commerce platform designed for seamless online shopping experiences. It offers a complete end-to-end solution for building, managing, and scaling an online store, featuring secure authentication, dynamic product management, and a user-friendly interface.
+v
 
 ## Features
 ### User Authentication & Authorization
