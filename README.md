@@ -30,6 +30,7 @@ v
 - Optimized for desktop, tablet, and mobile devices
 
 ### Scalability & Maintainability
+
 - Modular codebase following best practices
 - RESTful API architecture
 
